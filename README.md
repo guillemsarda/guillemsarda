@@ -4,7 +4,7 @@ My name is Guillem Sardà Parreu and I am from Tarragona, although I am currentl
 
 I have studied International Business Economics in the Universitat Pompeu Fabra. However, as soon as I finished my studies, I decided to start learning to code. And this is how I ended up here.
 
----
+</br>
 
 Here is a brief summary of the technologies that I feel most comfortable with, so expect that my projects contain some of these:
 
