@@ -23,7 +23,6 @@ Here is a brief summary of the technologies that I feel most comfortable with, s
 
 </br>
 </br>
-</br>
 
 #### If you want to take a look to my projects and you even feel like contributing, go ahead!
 
