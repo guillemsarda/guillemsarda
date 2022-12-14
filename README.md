@@ -4,7 +4,7 @@ My name is Guillem and I am a Software Developer from Tarragona.</br>
 Currently living in Barcelona.
 
 ## Summary of what I do
-About the tech stack:
+About my tech stack:
 </br>
 <details>
   <summary><b>&nbsp;&nbsp;Languages</b></summary>
