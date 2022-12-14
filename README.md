@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-My name is Guillem and I am a Software Developer from Tarragona. 
+My name is Guillem and I am a Software Developer from Tarragona.</br>
 Currently living in Barcelona.
 
 ## Summary of what I do
