@@ -19,8 +19,6 @@ About my tech stack:
 </p>
 </details>
 
-</br>
-
 <details>
   <summary><b>&nbsp;&nbsp;Front End</b></summary>
 	<br>
@@ -33,7 +31,6 @@ About my tech stack:
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png" height="36" alt="TailwindCSS" /></a>&nbsp;
 </p>
 </details>
-</br>
 
 <details>
   <summary><b>&nbsp;&nbsp;Back End</b></summary>
@@ -47,7 +44,6 @@ About my tech stack:
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/redis.svg" height="36" alt="Redis" /></a>&nbsp;
 </p>
 </details>
-</br>
 
 <details>
   <summary><b>&nbsp;&nbsp;Favourite Libraries</b></summary>
