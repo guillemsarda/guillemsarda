@@ -1,5 +1,5 @@
-<img alt="Tarragona amphitheater" src="https://fascinatingspain.com/wp-content/uploads/principal_tarragona.jpg" height="200" width="100%" style="object-fit: cover; opacity: 0.5; border-radius: 10px" />
-</br>
+<div style="width:100%; height:200px; background-image: url('https://fascinatingspain.com/wp-content/uploads/principal_tarragona.jpg'); background-size: 100%; background-repeat: no-repeat; opacity: 0.5; border-radius: 10px">
+</div>
 </br>
 
 # Welcome to my profile!
