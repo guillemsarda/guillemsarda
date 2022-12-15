@@ -1,12 +1,4 @@
-![Tarragona](https://fascinatingspain.com/wp-content/uploads/principal_tarragona.jpg#cover) 
-
-img[src*="#cover"] {
-   height=200; 
-   width=100%;
-   object-fit: cover; 
-   opacity: 0.5; 
-   border-radius: 10px;
-}
+![Tarragona](https://fascinatingspain.com/wp-content/uploads/principal_tarragona.jpg#cover)
 
 # Welcome to my profile!
 
