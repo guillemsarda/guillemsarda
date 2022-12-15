@@ -1,8 +1,4 @@
-<div style="width:100%; height:200px; background-image: url('https://fascinatingspain.com/wp-content/uploads/principal_tarragona.jpg'); background-size: 100%; background-repeat: no-repeat; opacity: 0.5; border-radius: 10px">
-</div>
-</br>
-
-# Welcome to my profile!
+# Welcome to my profile! ✌🏼
 
 My name is Guillem and I am a Software Developer from Tarragona.</br>
 Currently living in Barcelona.
