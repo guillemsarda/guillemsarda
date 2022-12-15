@@ -1,4 +1,16 @@
-![Tarragona](https://fascinatingspain.com/wp-content/uploads/principal_tarragona.jpg#cover)
+
+
+<!-- ![Tarragona](https://fascinatingspain.com/wp-content/uploads/principal_tarragona.jpg#cover)  -->
+
+<img alt="Tarragona amphiteater" src="https://fascinatingspain.com/wp-content/uploads/principal_tarragona.jpg" height="100" width="100%" style="object-fit: cover" />
+
+<!-- img[src*="#cover"] {
+   height=200; 
+   width=100%;
+   object-fit: cover; 
+   opacity: 0.5; 
+   border-radius: 10px;
+} -->
 
 # Welcome to my profile!
 
