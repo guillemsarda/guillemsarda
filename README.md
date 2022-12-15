@@ -1,3 +1,7 @@
+<img alt="Tarragona amphitheater" src="https://fascinatingspain.com/wp-content/uploads/principal_tarragona.jpg" height="200" width="100%" style="object-fit: cover; opacity: 0.5; border-radius: 10px" />
+</br>
+</br>
+
 # Welcome to my profile!
 
 My name is Guillem and I am a Software Developer from Tarragona.</br>
