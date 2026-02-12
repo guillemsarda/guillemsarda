@@ -56,8 +56,3 @@ About my tech stack:
 </p>
 </details>
 </br>
-
-Some cool GitHub stats:
-</br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=guillemsarda" />
-</br>
